@@ -1,0 +1,202 @@
+ [
+  {
+  "id": 1,
+  "baseForm": "abash",
+  "pastForm": "abashed",
+  "pastParticipleForm": "abashed",
+  "sEsIesForm": "abashes",
+  "ingForm": "abashing"
+  },
+  {
+  "id": 2,
+  "baseForm": "abate",
+  "pastForm": "abated",
+  "pastParticipleForm": "abated",
+  "sEsIesForm": "abates",
+  "ingForm": "abating"
+  },
+  {
+  "id": 3,
+  "baseForm": "abide",
+  "pastForm": "abode",
+  "pastParticipleForm": "abode",
+  "sEsIesForm": "abides",
+  "ingForm": "abiding"
+  },
+  {
+  "id": 4,
+  "baseForm": "absorb",
+  "pastForm": "absorbed",
+  "pastParticipleForm": "absorbed",
+  "sEsIesForm": "absorbs",
+  "ingForm": "absorbing"
+  },
+  {
+  "id": 5,
+  "baseForm": "accept",
+  "pastForm": "accepted",
+  "pastParticipleForm": "accepted",
+  "sEsIesForm": "accepts",
+  "ingForm": "accepting"
+  },
+  {
+  "id": 6,
+  "baseForm": "accompany",
+  "pastForm": "accompanied",
+  "pastParticipleForm": "accompanied",
+  "sEsIesForm": "accompanies",
+  "ingForm": "accompanying"
+  },
+  {
+  "id": 7,
+  "baseForm": "ache",
+  "pastForm": "ached",
+  "pastParticipleForm": "ached",
+  "sEsIesForm": "aches",
+  "ingForm": "aching"
+  },
+  {
+  "id": 8,
+  "baseForm": "achieve",
+  "pastForm": "achieved",
+  "pastParticipleForm": "achieved",
+  "sEsIesForm": "achieves",
+  "ingForm": "achieving"
+  },
+  {
+  "id": 9,
+  "baseForm": "acquire",
+  "pastForm": "acquired",
+  "pastParticipleForm": "acquired",
+  "sEsIesForm": "acquires",
+  "ingForm": "acquiring"
+  },
+  {
+  "id": 10,
+  "baseForm": "act",
+  "pastForm": "acted",
+  "pastParticipleForm": "acted",
+  "sEsIesForm": "acts",
+  "ingForm": "acting"
+  },
+  {
+  "id": 11,
+  "baseForm": "add",
+  "pastForm": "added",
+  "pastParticipleForm": "added",
+  "sEsIesForm": "adds",
+  "ingForm": "adding"
+  },
+  {
+  "id": 12,
+  "baseForm": "address",
+  "pastForm": "addressed",
+  "pastParticipleForm": "addressed",
+  "sEsIesForm": "addresses",
+  "ingForm": "addressing"
+  },
+  {
+  "id": 13,
+  "baseForm": "adjust",
+  "pastForm": "adjusted",
+  "pastParticipleForm": "adjusted",
+  "sEsIesForm": "adjusts",
+  "ingForm": "adjusting"
+  },
+  {
+  "id": 14,
+  "baseForm": "admire",
+  "pastForm": "admired",
+  "pastParticipleForm": "admired",
+  "sEsIesForm": "admires",
+  "ingForm": "admiring"
+  },
+  {
+  "id": 15,
+  "baseForm": "admit",
+  "pastForm": "admitted",
+  "pastParticipleForm": "admitted",
+  "sEsIesForm": "admits",
+  "ingForm": "admitting"
+  },
+  {
+  "id": 16,
+  "baseForm": "advise",
+  "pastForm": "advised",
+  "pastParticipleForm": "advised",
+  "sEsIesForm": "advises",
+  "ingForm": "advising"
+  },
+  {
+  "id": 17,
+  "baseForm": "afford",
+  "pastForm": "afforded",
+  "pastParticipleForm": "afforded",
+  "sEsIesForm": "affords",
+  "ingForm": "affording"
+  },
+  {
+  "id": 18,
+  "baseForm": "agree",
+  "pastForm": "agreed",
+  "pastParticipleForm": "agreed",
+  "sEsIesForm": "agrees",
+  "ingForm": "agreeing"
+  },
+  {
+  "id": 19,
+  "baseForm": "alight",
+  "pastForm": "alit",
+  "pastParticipleForm": "alit",
+  "sEsIesForm": "alights",
+  "ingForm": "alighting"
+  },
+  {
+  "id": 20,
+  "baseForm": "allow",
+  "pastForm": "allowed",
+  "pastParticipleForm": "allowed",
+  "sEsIesForm": "allows",
+  "ingForm": "allowing"
+  },
+  {
+  "id": 21,
+  "baseForm": "animate",
+  "pastForm": "animated",
+  "pastParticipleForm": "animated",
+  "sEsIesForm": "animates",
+  "ingForm": "animating"
+  },
+  {
+  "id": 22,
+  "baseForm": "announce",
+  "pastForm": "announced",
+  "pastParticipleForm": "announced",
+  "sEsIesForm": "announces",
+  "ingForm": "announcing"
+  },
+  {
+  "id": 23,
+  "baseForm": "answer",
+  "pastForm": "answered",
+  "pastParticipleForm": "answered",
+  "sEsIesForm": "answers",
+  "ingForm": "answering"
+  },
+  {
+  "id": 24,
+  "baseForm": "apologize",
+  "pastForm": "apologized",
+  "pastParticipleForm": "apologized",
+  "sEsIesForm": "apologizes",
+  "ingForm": "apologizing"
+  },
+  {
+  "id": 25,
+  "baseForm": "appear",
+  "pastForm": "appeared",
+  "pastParticipleForm": "appeared",
+  "sEsIesForm": "appears",
+  "ingForm": "appearing"
+  }
+]
