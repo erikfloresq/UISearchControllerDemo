@@ -8,7 +8,7 @@ draft: true
 
 Es un componente que nos ayuda a mostrar de una manera adecuada los resultados de busqueda de un usuario.
 
-
+![](https://github.com/erikfloresq/UISearchControllerDemo/blob/master/UISearchView.gif)
 
 # Implementando un UISearchController
 
@@ -106,4 +106,9 @@ Para mostrar lo resultados de busqueda del SearchController debemos implementar 
 
 *El metodo getResults que usamos para obtener los datos filtrados, deberia ser tu metodo para que hage la comparación entre el texto que se ingresa en el searchBar y tu fuente de datos
 
+
+# Conclusión
+
+Debemos aprovechar el ResultViewController ya que es una de las formas convenientes de mostrar los resultados de busqueda.
+He visto en otras ocaciones en donde se suele usar el SearchController asignandole al ResultViewController como nil y terminando usando los protocolos del SearchBar para obtener los datos ingresado por el textField del SearchBar, cosa que seria inecesaria si se saber usar el ResultViewController .
 
